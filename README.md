@@ -31,8 +31,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I haven't worked in Java for a long time, so remembering how to use interfaces and certain instances created a small extra workload. I also stumbled a bit in navigating between files in the project structure because of my unfamiliarity with Android Studio and Android application structures.
 
 ## License
 
